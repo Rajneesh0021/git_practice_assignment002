@@ -1,3 +1,4 @@
+
 let detector = 'prime'
 let num =37;
 for(i=2;i<num;i++){
