@@ -1,5 +1,5 @@
-let flag = 'prime'
-let num =12;
+var flag = 'prime'
+var num =14;
 for(i=2;i<num;i++){
 if(num%i==0){
 flag='not prime';
